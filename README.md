@@ -1,11 +1,11 @@
 # JornadaByLearn
-Repositório Teste da Jornada Python Faixa Preta ByLearn - com Zarcky
+⚠ Repositório-Teste da Jornada Python Faixa Preta ByLearn - com Zarcky ⚠
 
-Códigos-Testes para treinar Python
+✅Códigos-Testes para treinar Python
 
-Projeto para aprender a usar Git e Github
+✅Projeto para aprender a usar Git e Github
 
-#função IMC com acréscimo do nome
+🎁#função IMC com acréscimo do nome
 
 def imc(peso, altura, nome):
   altura_quadrada = altura ** 2
@@ -15,7 +15,7 @@ def imc(peso, altura, nome):
 
 meu_imc = imc(106, 1.75, 'Léo')
 
-#Função calcular média com acréscimo do nome do aluno
+🎁#Função calcular média com acréscimo do nome do aluno
 
 def calcular_media(notas, nome):
   quantidade = len(notas)
